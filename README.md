@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm Iklas from Indonesia. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+
+## Skill and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
 
 <!--
 **ichlasul0899/ichlasul0899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
